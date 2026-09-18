@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "OuvidoriaIFPE",
+    "slug": "OuvidoriaIFPE",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "218ad37e-1b77-47dd-85de-e8209535d8e6"
+      }
+    }
+  }
+}
